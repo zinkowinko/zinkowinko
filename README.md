@@ -1,5 +1,3 @@
-hey my name is zinko
-i am alright at making discord bots in python!
-thats really it
-alright have a good day!
-also have a project named sillycurity! erm if you wanna join here is the discord server :3 https://discord.gg/DTnYgaKjZk
+Hello, My name is zinko!
+I am not that good but alright at coding in Python, And others!
+Currently working on a roblox executor named KillByfron.
